@@ -1,4 +1,4 @@
 .env
 */__pycache__/
-
+/polls/migrations/__pycache__
 
