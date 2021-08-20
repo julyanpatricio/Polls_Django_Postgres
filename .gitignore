@@ -1,3 +1,4 @@
 .env
-firstProyect/__pycache__/
+*/__pycache__/
+
 
